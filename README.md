@@ -6,4 +6,4 @@ Use [n](https://github.com/tj/n) package manager, then clone this project somewh
 
     node index.js
 
-    open index.html
+Open `http://localhost:7777/index.html` in browser.
